@@ -1,6 +1,8 @@
 Оффтоп: Презентации будут повешены в дропбокс
 
-"Это, конечно, Латинская Америка, но не настолько"
+" - Конечно, мы в прошлом году это на латыни проходили.
+  - Тогда может ты и расскажешь?
+  - Это, конечно, Латинская Америка, но не настолько."
 
 Относительные предложения
 предложения, которые функционируют, как определения (но на самом деле нет. и относительно кечуа тоже нет)
@@ -9,9 +11,9 @@
 Чего нет в кечуа:
 - нет конструкции с резумптивными (resumptive) местоимениями
 "Знаете, что такое резумптивные местоимения? Проблема в том, что я тоже не знаю."
-мишень релятивизации - 
+мишень релятивизации
 the car I stole - а вот тут ее нет
-[The car I stole] stole the car
+[The car I stole] stole the car.
 крадущий и крадуемое (S и DO)
 
 Matrix:   S   DO
@@ -20,3 +22,40 @@ Rel:      S   DO
               | 
            [мишень]
 
+The car [which] he knew that I knew that you knew that I had stolen [it].
+
+
+Что в кечуе:
+
+- WH-конструкции (встречаются, но не используются)
+Tigua, Ecuador (fieldwork notes)
+may-be-di kuchillu [ima-un-di aycha-da p'iti-rka-ngi]
+where-LOC-EMPH knife what-WI-EMPH meat-ACC cut-PA-2
+"Where is the knife with which you cut the meat?"
+
+- Аппозитивные конструкции (встречаются, но не используются)
+Pedro puri-rqa, [pay-pas /chay-pas /quiquin-pas miku-rqa]
+Pedro walk-PA he-IND /that-IND /same-IND ate-PA
+"Pedro walked, the one who ate."
+
+- Номинализации/причастия
+Cuzco, Peru (fieldwork notes)
+[kay-man hamu-q] runa ruwa-nqa
+this-to come-AG man do-3FUT
+"The man who comes here will do it."
+Основные параметры классификации номинализаций:
+- время (прошедшее - настоящее - будущее)
+- мишень релятивизации (субъект - несубъект)
+
+-k/-q ассоциирован с субьектом, но в реальности все сложнее (Tigua&Salcedo):
+
+Past +subj.             Present +subj.         Future +subj.
+-shka 3                 -k    7                -na 1
+-k    2                 -shka 1
+                        -na-k 1
+                        
+Past -subj.             Present -subj.         Future -subj.
+-shka 13                -shka 4                -na 2
+                        -na   2
+                        
+                        
